@@ -1,0 +1,10 @@
+.romano{
+    list-style-type: lower-roman;
+}
+.quadrado{
+    list-style-type: square;
+}
+
+h1{
+    color:blue;
+}
